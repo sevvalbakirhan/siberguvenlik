@@ -39,11 +39,13 @@ nano saldirgan.sh
 
  ```bash
 chmod +x saldirgan.sh
+```
 
 4. Scripti terminalde çalıştırın ve istenen hedef adresi girin:
 
  ```bash
 ./saldirgan.sh
+```
 
 (Örnek Girdi: www.google.com)
 
