@@ -30,19 +30,19 @@ ping -c 4 "$HEDEF"
 ## Kullanım Adımları
 1. Kali Linux terminalinde yeni bir script dosyası oluşturun ve düzenleyin:
 
-Bash
+ ```bash
 nano saldirgan.sh 
 ```
 2. Yukarıdaki kod bloğunu dosyaya yapıştırıp kaydedin (Ctrl + O, Enter, Ctrl + X).
 
 3. Script dosyasına çalıştırma izni verin:
 
-Bash
+ ```bash
 chmod +x saldirgan.sh
 
 4. Scripti terminalde çalıştırın ve istenen hedef adresi girin:
 
-Bash
+ ```bash
 ./saldirgan.sh
 
 (Örnek Girdi: www.google.com)
