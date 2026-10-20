@@ -37,15 +37,15 @@ Normal şartlarda bir dosyayı uzak depoya yüklemek için `git init`, `git add`
    chmod +x deneme.sh
 
 
-Scripti terminalde çalıştırın:
+1. Scripti terminalde çalıştırın:
    ```bash
    ./deneme.sh
 
 
-Ekranda beliren yönlendirmeleri takip edin:
+2. Ekranda beliren yönlendirmeleri takip edin:
 
-Dosya adını girin: (Örn: deneme veya proje)
+3. Dosya adını girin: (Örn: deneme veya proje)
 
-GitHub'a yüklenecek adresi yazın: (Örn: https://github.com/kullaniciadi/repo-adi.git)
+4. GitHub'a yüklenecek adresi yazın: (Örn: https://github.com/kullaniciadi/repo-adi.git)
 
-Açılan tarayıcı penceresinden GitHub hesabınızla giriş yaparak kimlik doğrulamasını tamamlayın.
+5. Açılan tarayıcı penceresinden GitHub hesabınızla giriş yaparak kimlik doğrulamasını tamamlayın.
